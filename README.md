@@ -8,6 +8,12 @@ AIチャットの内容を監視し、誤りや方向性のズレを検知して
 
 [サイバー空間上に起こる全面戦争](https://www.gtc-aichi.info/openai-daybreak-security-ai-analysis/)
 
-## ここでちょっと一息（コーヒーブレイク）
+<br>
+
+<br>
+
+## ここでちょっとのあいだ一息（コーヒーブレイク）
+
+<br>
 
 [実に面白い内容](https://game.watch.impress.co.jp/docs/topic/special/1563727.html)
