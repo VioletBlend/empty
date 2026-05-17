@@ -7,3 +7,7 @@ AIチャットの内容を監視し、誤りや方向性のズレを検知して
 参照記事：https://prtimes.jp/main/html/rd/p/000000016.000118546.html
 
 [サイバー空間上に起こる全面戦争](https://www.gtc-aichi.info/openai-daybreak-security-ai-analysis/)
+
+## ここでちょっと一息（コーヒーブレイク）
+
+[実に面白い内容](https://game.watch.impress.co.jp/docs/topic/special/1563727.html)
