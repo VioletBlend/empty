@@ -6,4 +6,4 @@ AIチャットの内容を監視し、誤りや方向性のズレを検知して
 
 参照記事：https://prtimes.jp/main/html/rd/p/000000016.000118546.html
 
-[セキュリティ戦争](https://www.gtc-aichi.info/openai-daybreak-security-ai-analysis/)
+[サイバー空間上に起こる全面戦争](https://www.gtc-aichi.info/openai-daybreak-security-ai-analysis/)
